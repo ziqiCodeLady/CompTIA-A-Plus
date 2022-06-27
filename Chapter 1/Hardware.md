@@ -9,4 +9,9 @@
     - All solid-state memory,  All of our information is being stored. 
     - silent because they have no moving parts 
     -  very fast response times because you’re writing directly to memory. 
-    - 2 and 1/2 inch. and  a 1.8 inch on older hard drives
+    - 2 and 1/2 inch. and  a 1.8 inch on older hard drives 
+
+- Hybrid drive (SSHD), solid-state hybrid drive.
+    - spinning components, 
+    - cache the information as it’s being read or written to the drive separate from the operation of your laptop
+    - the traditional spinning hard drive and a 2 .5 inch form factor
