@@ -15,3 +15,11 @@
     - spinning components, 
     - cache the information as it’s being read or written to the drive separate from the operation of your laptop
     - the traditional spinning hard drive and a 2 .5 inch form factor
+
+- SO-DIMM and a Micro-DIMM
+    - much smaller than DIMMs used in desktops
+    - DDR2 and DDR3 SO-DIMM are 67.6 milimeters wide
+    - DDR4 SO-DIMMs are 69.6 milimeters wide
+- Smart Card
+    - use a smart card as part of your authentication. 
+    - use USB connects to the laptop if there is not smart card reader intergrated
