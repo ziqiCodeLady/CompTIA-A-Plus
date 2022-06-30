@@ -23,3 +23,8 @@
 - Smart Card
     - use a smart card as part of your authentication. 
     - use USB connects to the laptop if there is not smart card reader intergrated
+        - If there is not a smart card reader integrated into the laptop, a USB is needed.
+- Optical drive
+    - it’s nice to have one that can both read and write  as a backup medium. 
+    - CD-RM, or CD-ROM, or  newer DVD-RW, or DVD-ROM. 
+        - This is all available in a portable device
